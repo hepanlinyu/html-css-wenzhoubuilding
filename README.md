@@ -3,9 +3,9 @@ Wenzhou building was constructed using div + css site for page layout with div, 
 <br>
 Were established basic.css and siderbar-h1.css, reusability style reflected.<br>
 <br>
-![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/README1.PNG)
+![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/images/README1.PNG)
 ## 'ul' made the navigation bar:
-![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/README2.PNG)
+![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/images/README2.PNG)
 ```css
 #nav{
  width: 867px;
@@ -45,7 +45,7 @@ Were established basic.css and siderbar-h1.css, reusability style reflected.<br>
 }
 ```
 ## Table 's background made border effect:
-![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/README3.PNG)
+![](https://github.com/jingwhale/html-css-wenzhoubuilding/raw/master/images/README3.PNG)
 ```css
 #content table{
  width: 80%;

@@ -1,0 +1,38 @@
+#content h1{
+	background: url(../images/Message.gif) no-repeat;
+}
+
+#content form{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#content form p{
+	padding: 2px 0;
+}
+
+#content form p input.text{
+	width: 150px;
+	height: 20px;
+	border:1px solid #ccc;
+	background: #fff;
+}
+
+#content form textarea.area{
+	width: 210px;
+	height: 100px;
+	border:1px solid #ccc;
+	background: #fff;
+}
+
+#content form p input.submit{
+	width: 70px;
+	height: 25px;
+	border:1px solid #ccc;
+	background: #fff;
+	cursor: pointer;
+}
+
+#content form p input.submit:hover{
+	background: #eee;
+}

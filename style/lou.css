@@ -1,0 +1,39 @@
+#content h1{
+	background: url(../images/lou.gif) no-repeat;
+}
+
+#content dl{
+	width: 250px;
+	height: 181px;
+	float: left;
+	padding: 10px;
+}
+
+#content dd{
+	width: 250px;
+	height: 150px;
+}
+
+#content dd img{
+	display: block;
+	width: 250px;
+	height: 150px;
+
+}
+
+#content dt{
+	width: 234px;
+	height: 30px;
+	line-height: 30px;
+	background: #eee;
+	border-bottom: 1px solid #f60;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+#content p{
+	padding-top: 30px;
+	text-align: center;
+	clear:both;
+}

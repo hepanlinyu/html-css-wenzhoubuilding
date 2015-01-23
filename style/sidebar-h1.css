@@ -1,0 +1,31 @@
+#sidebar{
+	width: 266px;
+	height: 800px;
+	background: #fff;
+	float: left;
+	border-right: 1px solid #ccc;
+}
+
+#sidebar embed{
+	display: block;
+	width: 220px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top:20px;
+}
+
+#content{
+	width: 600px;
+	height: 800px;
+	background: #fff;
+	float: right;
+}
+
+#content h1{
+	width: 127px;
+	height: 26px;
+	font-size: 100%;/*浏览器兼容性*/
+	text-indent: -9999px;
+	margin-top:20px;
+	margin-left:20px;
+}

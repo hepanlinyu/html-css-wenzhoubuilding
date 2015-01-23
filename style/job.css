@@ -1,0 +1,47 @@
+#content h1{
+	background: url(../images/job.gif) no-repeat;
+}
+
+#content table{
+	width: 80%;
+	margin-left: 25px;
+	margin-top: 10px;
+	background: #ccc;
+	border-collapse: collapse;
+}
+
+#content table th{
+	background: #eee;
+}
+
+#content table tr{
+	background: #fff;
+}
+
+#content tr:hover{
+	background: #cc0;
+}
+
+#content th,#content td{
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	border:1px solid #ccc;
+}
+
+#content td a{
+	color: #06f;
+	text-decoration: none;
+}
+
+#content td a:hover{
+	color: #06f;
+	text-decoration: underline;
+}
+
+
+
+#content p{
+	margin-top: 30px;
+	text-align: center;
+}

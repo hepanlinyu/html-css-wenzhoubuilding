@@ -1,0 +1,21 @@
+
+#content h1{
+	background: url(../images/aboutme.gif) no-repeat;
+}
+
+#content img{
+	width: 529px;
+	height: 185px;
+	padding: 8px 15px;
+}
+
+#content p{
+	padding-left: 20px;
+	padding-right: 60px;
+	line-height: 170%;
+	text-indent: 24px;
+}
+
+#content p span{
+	color: blue;
+}
